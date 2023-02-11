@@ -1,0 +1,5 @@
+grid(4,4).
+agent_loc(1,1).
+ships_loc([[3,0],[0,3]]).
+station(2,3).
+capacity(1).
