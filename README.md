@@ -1,4 +1,4 @@
-# Logic-based-Agent
+# Logic-based-Agent  
 In this project, we are aiming to implement a simplified logic-based version
 of the Coast Guard agent. This agent reasons using the situation calculus. The
 project will be implemented in Prolog. In this grid, there is only one station,
